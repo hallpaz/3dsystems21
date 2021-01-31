@@ -1,1 +1,1 @@
-# 3D Graphcis Systems Assignments Website
+# 3D Graphics Systems Assignments Website
