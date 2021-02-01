@@ -2,6 +2,9 @@
 
 In this assignment you will practice working with the Google Colab environment and PyTorch. You’ll also practice setting a simple image classification pipeline. The goals of this practice are the following:
 
+#### <under construction>
+
+------
 ### Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. In case you’re choosing to work locally in your machine you must set Anaconda or a venv virtual environment, and install the necessary libraries.
 
@@ -16,7 +19,7 @@ You can build auxiliary .py scripts and call them from your notebook, for organi
 ### Submission for IMPA students
 The assignment is due on Friday, September 18 2020 at 11:59pm (GMT-3).
 
-IMPA students that are regularly enrolled in the program should send their assignments before the due date to yukimura@impa.br with a copy to lvelho@impa.br. Late delivers will be consider subject to a lower score.
+IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
 The submission email should be sent with the subject “Assignment 1 - [first-name] - [last-name]”. The assignment can be structured and sent in two ways:
 
