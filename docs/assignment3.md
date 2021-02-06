@@ -8,9 +8,9 @@ The goals of this practice are the following:
 * Goal 2
 
 ### Instructions:
-If you’re using Google Colab, you just need to have a google account and an associated Google Drive. In case you’re choosing to work locally in your machine you must set Anaconda or a venv virtual environment, and install the necessary libraries.
+If you’re using Google Colab, you just need to have a google account and an associated Google Drive. 
 
-Create a folder in your Google Drive or in your machine’s workspace. Copy to your drive folder or download the following notebook:
+In case you’re choosing to work locally in your machine you must set Anaconda or a venv virtual environment, and install the necessary libraries. Create a folder in your Google Drive or in your machine’s workspace. Copy to your drive folder or download the following notebook:
 
 Assignment 3 Notebook
 OPEN IN COLAB
@@ -37,3 +37,6 @@ For students following the course on this modality, we recall that all assignmen
 
 References:
 Slides: Introduction to PyTorch class.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY4Mzk1ODc0OF19
+-->
