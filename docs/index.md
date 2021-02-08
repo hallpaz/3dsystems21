@@ -6,7 +6,7 @@ Here you'll find the instructions to each assignment of the course 3D Graphics S
 
 ### Assignment 3 - [Loading and Visualizing ShapeNet Data](assignment3.md)
 
-### [Assignment 4](assignment4.md)
+### Assignment 4 - [Rendering textured pointclouds and meshes](assignment4.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTgyMTM2M119
+eyJoaXN0b3J5IjpbLTE3NTc5MjUwMjNdfQ==
 -->
