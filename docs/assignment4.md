@@ -1,4 +1,3 @@
-## Assignment 4
 
 # Rendering textured pointclouds and meshes
 
@@ -42,6 +41,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI1MjgwMTYsLTIxMTU4MTU2NzEsMT
-M0OTQzMjE2OV19
+eyJoaXN0b3J5IjpbNTk4MTEwOTcsLTIxMTU4MTU2NzEsMTM0OT
+QzMjE2OV19
 -->
