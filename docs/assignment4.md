@@ -1,6 +1,4 @@
 
-# Rendering textured pointclouds and meshes
-
 In this assignment, we will practice some operations with 3D meshes and point clouds using PyTorch3D. We are going to load individual data files from the disk to build the appropriate data structure and visualize it using both a differentiable renderer and the Plotly viewer. It's also an opportunity for us to explore 
 
 **The goals of this practice are the following:**
@@ -41,6 +39,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MTEwOTcsLTIxMTU4MTU2NzEsMTM0OT
-QzMjE2OV19
+eyJoaXN0b3J5IjpbLTQ5NzY5MTA3OSwtMjExNTgxNTY3MSwxMz
+Q5NDMyMTY5XX0=
 -->
