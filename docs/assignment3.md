@@ -1,3 +1,4 @@
+**ASSIGNMENT 3**
 
 In this assignment, we will load and visualize some models of the ShapeNet dataset. 
 
@@ -7,6 +8,7 @@ In this assignment, we will load and visualize some models of the ShapeNet datas
 * Understand the challenges in building a dataset useful for machine learning
 * Experiment with PyTorch3D DataLoaders
 * Visualize 3D models using Plotly 
+
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
@@ -42,6 +44,6 @@ For students following the course on this modality, we recall that all assignmen
 [1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDU3NjM4NCw2Njk0ODE4NDIsMzk4MT
+eyJoaXN0b3J5IjpbLTg4NDkzNzM0OCw2Njk0ODE4NDIsMzk4MT
 YxNDY1LDExNDc1MzQ3OTksLTY4Mzk1ODc0OF19
 -->
