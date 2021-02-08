@@ -1,4 +1,3 @@
-## Loading and Visualizing ShapeNet Data
 
 In this assignment, we will load and visualize some models of the ShapeNet dataset. 
 
@@ -50,6 +49,6 @@ For students following the course on this modality, we recall that all assignmen
 [1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NDgxODQyLDM5ODE2MTQ2NSwxMTQ3NT
-M0Nzk5LC02ODM5NTg3NDhdfQ==
+eyJoaXN0b3J5IjpbLTIxNDUxNTMwNzQsNjY5NDgxODQyLDM5OD
+E2MTQ2NSwxMTQ3NTM0Nzk5LC02ODM5NTg3NDhdfQ==
 -->
