@@ -4,7 +4,7 @@
 
 In this assignment, we will practice some operations with 3D meshes and point clouds using PyTorch3D. We are going to load individual data files from the disk to build the appropriate data structure and visualize it using both a differentiable renderer and the Plotly viewer. It's also an opportunity for us to explore 
 
-The goals of this practice are the following:
+**The goals of this practice are the following:**
 
 -   Make simple operations with tensors
 -   Load meshes from files
@@ -42,6 +42,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTczNTkzMTIsLTIxMTU4MTU2NzEsMT
+eyJoaXN0b3J5IjpbLTE5NTI1MjgwMTYsLTIxMTU4MTU2NzEsMT
 M0OTQzMjE2OV19
 -->
