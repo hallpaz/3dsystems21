@@ -1,8 +1,8 @@
-# Loading and Visualizing ShapeNet Data
+## Loading and Visualizing ShapeNet Data
 
 In this assignment, we will load and visualize some models of the ShapeNet dataset. 
 
-The goals of this practice are the following:
+**The goals of this practice are the following:**
 
 * Learn about the ShapeNet dataset
 * Understand the challenges in building a dataset useful for machine learning
@@ -50,6 +50,6 @@ For students following the course on this modality, we recall that all assignmen
 [1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MTYxNDY1LDExNDc1MzQ3OTksLTY4Mz
-k1ODc0OF19
+eyJoaXN0b3J5IjpbNjY5NDgxODQyLDM5ODE2MTQ2NSwxMTQ3NT
+M0Nzk5LC02ODM5NTg3NDhdfQ==
 -->
