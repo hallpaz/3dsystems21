@@ -33,7 +33,7 @@ In case you’re choosing to work locally in your machine you must set Anaconda 
 ### Submission for IMPA students
 The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
 
-IMPA students that are regularly enrolled in the program should send their assignments before the due date to hallpaz@impa.br with a copy to lvelho@impa.br. Late delivers will be consider subject to a lower score.
+IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
 The submission email should be sent with the subject “Assignment 3 - [first-name] - [last-name]”. The assignment can be structured and sent in two ways:
 
@@ -50,5 +50,6 @@ For students following the course on this modality, we recall that all assignmen
 [1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzUzNDc5OSwtNjgzOTU4NzQ4XX0=
+eyJoaXN0b3J5IjpbMzk4MTYxNDY1LDExNDc1MzQ3OTksLTY4Mz
+k1ODc0OF19
 -->
