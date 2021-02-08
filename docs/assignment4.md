@@ -1,3 +1,4 @@
+**ASSIGNMENT 4**
 
 In this assignment, we will practice some operations with 3D meshes and point clouds using PyTorch3D. We are going to load individual data files from the disk to build the appropriate data structure and visualize it using both a differentiable renderer and the Plotly viewer. It's also an opportunity for us to explore 
 
@@ -39,6 +40,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzY5MTA3OSwtMjExNTgxNTY3MSwxMz
-Q5NDMyMTY5XX0=
+eyJoaXN0b3J5IjpbLTIwNzQ3Njc4MzQsLTQ5NzY5MTA3OSwtMj
+ExNTgxNTY3MSwxMzQ5NDMyMTY5XX0=
 -->
