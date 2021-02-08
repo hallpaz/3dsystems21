@@ -8,13 +8,6 @@ In this assignment, we will load and visualize some models of the ShapeNet datas
 * Experiment with PyTorch3D DataLoaders
 * Visualize 3D models using Plotly 
 
-1.  Load ShapeNet and R2N2 datasets
-2.  Visualize ShapeNet on Plotly
-3.  Visualize Batch of R2N2
-4.  Change Texture in Plotly
-5.  Report about the challenges in dataset creation (ImageNet vs ShapeNet?)
-6.  Search about the categories in the dataset
-
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
 
@@ -49,6 +42,6 @@ For students following the course on this modality, we recall that all assignmen
 [1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUxNTMwNzQsNjY5NDgxODQyLDM5OD
-E2MTQ2NSwxMTQ3NTM0Nzk5LC02ODM5NTg3NDhdfQ==
+eyJoaXN0b3J5IjpbLTk2MDU3NjM4NCw2Njk0ODE4NDIsMzk4MT
+YxNDY1LDExNDc1MzQ3OTksLTY4Mzk1ODc0OF19
 -->
