@@ -18,9 +18,7 @@ In case you’re choosing to work locally in your machine you must set Anaconda 
 [Assignment 3 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment3.ipynb)
 <a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-1. You'll need to download a small subset of the required datasets to complete this task. 
-	2. SHAPENET
-	3. R2N2
+1. You'll need to download a small subset of the ShapeNet dataset to complete this task. [download it here]()
 2. Follow the instructions in the notebook for completing the assignment.
 3. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
 
@@ -44,6 +42,6 @@ For students following the course on this modality, we recall that all assignmen
 [1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDkzNzM0OCw2Njk0ODE4NDIsMzk4MT
+eyJoaXN0b3J5IjpbLTg4MzQ2NzU3Nyw2Njk0ODE4NDIsMzk4MT
 YxNDY1LDExNDc1MzQ3OTksLTY4Mzk1ODc0OF19
 -->
