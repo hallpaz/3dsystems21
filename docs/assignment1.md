@@ -2,7 +2,14 @@
 
 In this assignment you will practice working with the Google Colab environment and PyTorch. You’ll also practice setting a simple image classification pipeline. The goals of this practice are the following:
 
-#### <under construction>
+-   Gain experience setting and using notebooks on Google Colab.
+-   Develop familiarity with basic structures of PyTorch: tensors, autograd, modules.
+-   Practice dealing with image data.
+-   Understand better the data-driven approach.
+-   Practice setting a image classification pipeline.
+-   Train a neural network as a image classifier.
+-   Understand the train/test/val data split, and learn how to evaluate and adjust your system.
+-   Use visualization tools to evaluate your work.
 
 ------
 ### Instructions:
@@ -11,7 +18,7 @@ If you’re using Google Colab, you just need to have a google account and an as
 Create a folder in your Google Drive or in your machine’s workspace. Copy to your drive folder or download the following notebook:
 
 Assignment 1 - notebook
-<a href=\"https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment1.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+<a href=\"https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment1.ipynb" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 Follow the instructions in the notebook for completing the assignment.
 
@@ -34,3 +41,6 @@ For students that are enrolled as “Aluno de Curso Livre” you must not send y
 For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
 ### References:
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MTYwMTMxMjRdfQ==
+-->
