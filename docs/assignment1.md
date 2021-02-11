@@ -1,4 +1,4 @@
-## Assignment 1
+**ASSIGNMENT 1**
 
 In this assignment you will practice working with the Google Colab environment and PyTorch. You’ll also practice setting a simple image classification pipeline. The goals of this practice are the following:
 
@@ -42,5 +42,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTc2NzQxNF19
+eyJoaXN0b3J5IjpbLTExNDMyOTQ4OTQsMTQ1OTc2NzQxNF19
 -->
