@@ -17,7 +17,7 @@ If you’re using Google Colab, you just need to have a google account and an as
 
 Create a folder in your Google Drive or in your machine’s workspace. Copy to your drive folder or download the following notebook:
 
-[Assignment 1 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment3.ipynb)
+[Assignment 1 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment1.ipynb)
 <a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Follow the instructions in the notebook for completing the assignment.
