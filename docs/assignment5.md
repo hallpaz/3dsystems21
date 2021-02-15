@@ -1,4 +1,4 @@
-**ASSIGNMENT 4**
+**ASSIGNMENT 5**
 
 In this assignment, we will learn to deform an initial shape (e.g. sphere) to fit a target shape. Starting from a sphere mesh, we learn the offset to each vertex in the mesh such that the predicted mesh is closer to the target mesh at each optimization step. 
 
@@ -7,7 +7,7 @@ In this assignment, we will learn to deform an initial shape (e.g. sphere) to fi
 -   Use different PyTorch3D mesh loss functions
 -   Set up an optimization loop
 -   Evaluate optimization results
--   
+-   Reason about advantages and limitations of the method
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
@@ -38,5 +38,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI3Mjk2NF19
+eyJoaXN0b3J5IjpbLTIxMjM3NzM3ODVdfQ==
 -->
