@@ -1,6 +1,10 @@
 **ASSIGNMENT 4**
 
-In this assignment, we will practice 
+In this assignment, we will learn to deform an initial shape (e.g. sphere) to fit a target shape.
+
+Starting from a sphere mesh, we learn the offset to each vertex in the mesh such that
+
+the predicted mesh is closer to the target mesh at each optimization step. To achieve this we minimize:
 
 **The goals of this practice are the following:**
 
@@ -36,5 +40,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU4OTMwODFdfQ==
+eyJoaXN0b3J5IjpbNjM5MTM4MzMwXX0=
 -->
