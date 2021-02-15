@@ -4,8 +4,9 @@ In this assignment, we will learn to deform an initial shape (e.g. sphere) to fi
 
 **The goals of this practice are the following:**
 
-- Use different PyTorch3D mesh loss functions
-- Set up an optimization loop
+-   Use different PyTorch3D mesh loss functions
+-   Set up an optimization loop
+-   Evaluate optimization results
 -   
 
 ## Instructions:
@@ -37,5 +38,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAxNzAzXX0=
+eyJoaXN0b3J5IjpbLTE3MTI3Mjk2NF19
 -->
