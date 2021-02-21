@@ -1,8 +1,6 @@
-**ASSIGNMENT 5**
+**ASSIGNMENT 6**
 
-In this assignment, we will learn to compute the extrinsic parameters of a set (bundle) of cameras, given multiple pairs of transfor
-
- by minimizing the discrepancies between pairs of relative cameras. Thus, the solution to the problem should look as follows:
+In this assignment, we will learn to compute the extrinsic parameters of a set (bundle) of cameras, given multiple pairs of relative transformations between them. We'll use PyTorch3D API to set up an optimization process and minimize the discrepancies between pairs of relative cameras. 
 
 **The goals of this practice are the following:**
 
@@ -37,6 +35,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNzU5NDM0LDk5NDUyNjA2NCwtMTEwMT
+eyJoaXN0b3J5IjpbMzM5NjYzNzI3LDk5NDUyNjA2NCwtMTEwMT
 QzODgzOV19
 -->
