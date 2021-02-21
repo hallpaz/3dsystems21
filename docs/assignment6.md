@@ -4,10 +4,7 @@ In this assignment, we will learn to deform an initial shape (e.g. sphere) to fi
 
 **The goals of this practice are the following:**
 
--   Use different PyTorch3D mesh loss functions
--   Set up an optimization loop
--   Evaluate optimization results
--   Reason about advantages and limitations of the method
+-   
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
@@ -38,5 +35,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE0Mzg4MzldfQ==
+eyJoaXN0b3J5IjpbOTk0NTI2MDY0LC0xMTAxNDM4ODM5XX0=
 -->
