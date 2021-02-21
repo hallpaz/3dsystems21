@@ -1,6 +1,8 @@
 **ASSIGNMENT 5**
 
-In this assignment, we will learn to compute the extrinsic parameters of a set (bundle) of cameras Our optimization seeks to align the estimated (orange) cameras with the ground truth (purple) cameras, by minimizing the discrepancies between pairs of relative cameras. Thus, the solution to the problem should look as follows:
+In this assignment, we will learn to compute the extrinsic parameters of a set (bundle) of cameras, given multiple pairs of transfor
+
+ by minimizing the discrepancies between pairs of relative cameras. Thus, the solution to the problem should look as follows:
 
 **The goals of this practice are the following:**
 
@@ -35,6 +37,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTA5NjU3Miw5OTQ1MjYwNjQsLTExMD
-E0Mzg4MzldfQ==
+eyJoaXN0b3J5IjpbMzcwNzU5NDM0LDk5NDUyNjA2NCwtMTEwMT
+QzODgzOV19
 -->
