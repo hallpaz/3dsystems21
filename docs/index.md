@@ -9,7 +9,9 @@ Here you'll find the instructions to each assignment of the course 3D Graphics S
 ### Assignment 4 - [Rendering textured pointclouds and meshes](assignment4.md)
 
 ### Assignment 5 - [Deforming a source mesh into a target mesh](assignment5.md)
+
+### Assignment 6 - [Bundle Adjustment](assignment6.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTk2OTg0MCw2MjE1OTE1NzksLTE3NT
-c5MjUwMjNdfQ==
+eyJoaXN0b3J5IjpbMzM3NDgxOTAxLDYyMTU5MTU3OSwtMTc1Nz
+kyNTAyM119
 -->
