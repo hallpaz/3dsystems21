@@ -1,8 +1,6 @@
 **ASSIGNMENT 6**
 
-In this assignment, we will learn to simultaneously compute the extrinsic parameters of a set (bundle) of cameras, given multiple pairs of relative transformations between them. It's an instance of the bundle adjustment problem, which is very important in stereoscopy and 3D reconstruction
-
-We'll use PyTorch3D API to set up an optimization process and minimize the discrepancies between pairs of relative cameras. 
+In this assignment, we will learn to simultaneously compute the extrinsic parameters of a set (bundle) of cameras, given multiple pairs of relative transformations between them. It's an instance of the bundle adjustment problem, which is very important for stereoscopy and 3D reconstruction. We'll use PyTorch3D API to set up an optimization process and minimize the discrepancies between pairs of relative cameras. 
 
 **The goals of this practice are the following:**
 
@@ -38,6 +36,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg3MjExOCw0NDYwNzQ1OTksMzM5Nj
-YzNzI3LDk5NDUyNjA2NCwtMTEwMTQzODgzOV19
+eyJoaXN0b3J5IjpbMzY0OTUwOTM2LDQ0NjA3NDU5OSwzMzk2Nj
+M3MjcsOTk0NTI2MDY0LC0xMTAxNDM4ODM5XX0=
 -->
