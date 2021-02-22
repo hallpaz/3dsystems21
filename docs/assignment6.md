@@ -4,6 +4,7 @@ In this assignment, we will learn to compute the extrinsic parameters of a set (
 
 **The goals of this practice are the following:**
 
+-   Get more familiarization with camera representations
 -   
 
 ## Instructions:
@@ -35,6 +36,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NjYzNzI3LDk5NDUyNjA2NCwtMTEwMT
-QzODgzOV19
+eyJoaXN0b3J5IjpbNDQ2MDc0NTk5LDMzOTY2MzcyNyw5OTQ1Mj
+YwNjQsLTExMDE0Mzg4MzldfQ==
 -->
