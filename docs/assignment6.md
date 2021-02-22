@@ -5,7 +5,8 @@ In this assignment, we will learn to simultaneously compute the extrinsic parame
 **The goals of this practice are the following:**
 
 -   Get more familiarization with camera representations
--   
+-   Use the power of neural networks and gradient descent to solve a classic optimization problem
+- 
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
@@ -36,6 +37,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0OTUwOTM2LDQ0NjA3NDU5OSwzMzk2Nj
-M3MjcsOTk0NTI2MDY0LC0xMTAxNDM4ODM5XX0=
+eyJoaXN0b3J5IjpbMTUyNzExODA0Myw0NDYwNzQ1OTksMzM5Nj
+YzNzI3LDk5NDUyNjA2NCwtMTEwMTQzODgzOV19
 -->
