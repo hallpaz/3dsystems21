@@ -5,6 +5,7 @@ In this assignment, we will learn to simultaneously compute the extrinsic parame
 **The goals of this practice are the following:**
 
 -   Get more familiarization with camera representations
+-   Discover new APIs in PyTorch3D to work with rigid transforms
 -   Use the power of neural networks and gradient descent to solve a classic optimization problem
 - 
 
@@ -37,6 +38,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzExODA0Myw0NDYwNzQ1OTksMzM5Nj
-YzNzI3LDk5NDUyNjA2NCwtMTEwMTQzODgzOV19
+eyJoaXN0b3J5IjpbMzcwNDkzNzAxLDQ0NjA3NDU5OSwzMzk2Nj
+M3MjcsOTk0NTI2MDY0LC0xMTAxNDM4ODM5XX0=
 -->
