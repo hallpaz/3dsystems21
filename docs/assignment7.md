@@ -6,8 +6,9 @@ In this assignment, we will load a textured mesh from an obj file, create a synt
 **The goals of this practice are the following:**
 
 -  Understand more deeply a renderer pipeline 
--  how a differentiable
-- 
+-  Learn how a differentiable pipeline can be used to infer a variety of scene properties
+-  Train a model with 2D images supervision
+-  Test and understand the limitations of a differentiable renderer
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
@@ -39,5 +40,5 @@ For students following the course on this modality, we recall that all assignmen
 ### References:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5Njk5ODY5XX0=
+eyJoaXN0b3J5IjpbLTE0MjUyMjU3NjVdfQ==
 -->
