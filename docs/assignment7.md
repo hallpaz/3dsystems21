@@ -1,8 +1,7 @@
 
 **ASSIGNMENT 7**
 
-In this assignment, we will load a textured mesh from an obj file, create a synthetic dataset by rendering the mesh from multiple viewpoints and use our multi-view dataset to infer properties of the scene with a differentiable renderer. First, we'll set up an optimization loop to fit a mesh to the observed dataset images based on a rendered silhouette loss; then we will augment this optimization loop with an additional loss based on rendered RGB images, aiming to predict both a mesh and its texture; and finally we'll learn to infer the camera position  the mesh to predict 
-
+In this assignment, we will load a textured mesh from an obj file, create a synthetic dataset by rendering the mesh from multiple viewpoints and use our multi-view dataset to infer properties of the scene with a differentiable renderer. First, we'll set up an optimization loop to fit a mesh to the observed dataset images based on a rendered silhouette loss; then we will augment this optimization loop with an additional loss based on rendered RGB images, aiming to predict both a mesh and its texture; and finally we'll learn to infer the camera position of a rendered image using the mesh geometry.
 
 **The goals of this practice are the following:**
 
@@ -38,5 +37,5 @@ For students following the course on this modality, we recall that all assignmen
 ### References:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTQ2NzEzMl19
+eyJoaXN0b3J5IjpbLTEzNjQ0NDUyMF19
 -->
