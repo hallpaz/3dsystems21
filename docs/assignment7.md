@@ -5,7 +5,9 @@ In this assignment, we will load a textured mesh from an obj file, create a synt
 
 **The goals of this practice are the following:**
 
--  
+-  Understand more deeply a renderer pipeline 
+-  how a differentiable
+- 
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
@@ -37,5 +39,5 @@ For students following the course on this modality, we recall that all assignmen
 ### References:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ0NDUyMF19
+eyJoaXN0b3J5IjpbODY5Njk5ODY5XX0=
 -->
