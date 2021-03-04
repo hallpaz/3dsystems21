@@ -7,7 +7,7 @@ In this assignment, we will load a textured mesh from an obj file, create a synt
 
 -  Understand more deeply a renderer pipeline 
 -  Learn how a differentiable pipeline can be used to infer a variety of scene properties
--  Train a model with 2D images supervision
+-  Train a model to infer 3D geometry using 2D images supervision
 -  Test and understand the limitations of a differentiable renderer
 
 ## Instructions:
@@ -40,5 +40,5 @@ For students following the course on this modality, we recall that all assignmen
 ### References:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUyMjU3NjVdfQ==
+eyJoaXN0b3J5IjpbMTEwMDE3MzU3MV19
 -->
