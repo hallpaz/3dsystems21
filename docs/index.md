@@ -12,8 +12,8 @@ Here you'll find the instructions to each assignment of the course 3D Graphics S
 
 ### Assignment 6 - [Bundle Adjustment](assignment6.md)
 
-### Assignment 7 - [Estimating ](assignment7.md)
+### Assignment 7 - [Estimating Geometry, Texture and Camera using differentiable rendering](assignment7.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAyOTI4MDgsNjIxNTkxNTc5LC0xNz
-U3OTI1MDIzXX0=
+eyJoaXN0b3J5IjpbLTczOTczMDcwNSw2MjE1OTE1NzksLTE3NT
+c5MjUwMjNdfQ==
 -->
