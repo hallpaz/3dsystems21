@@ -11,7 +11,9 @@ Here you'll find the instructions to each assignment of the course 3D Graphics S
 ### Assignment 5 - [Deforming a source mesh into a target mesh](assignment5.md)
 
 ### Assignment 6 - [Bundle Adjustment](assignment6.md)
+
+### Assignment 7 - [Estimating ](assignment7.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NDgxOTAxLDYyMTU5MTU3OSwtMTc1Nz
-kyNTAyM119
+eyJoaXN0b3J5IjpbLTE0MjAyOTI4MDgsNjIxNTkxNTc5LC0xNz
+U3OTI1MDIzXX0=
 -->
