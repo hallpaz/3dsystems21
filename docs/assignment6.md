@@ -1,4 +1,4 @@
-**ASSIGNMENT 6**
+**ASSIGNMENT **
 
 In this assignment, we will learn to simultaneously compute the extrinsic parameters of a set (bundle) of cameras, given multiple pairs of relative transformations between them. It's an instance of the bundle adjustment problem, which is very important for stereoscopy and 3D reconstruction. We'll use PyTorch3D API to set up an optimization process and minimize the discrepancies between pairs of relative cameras. 
 
@@ -6,16 +6,15 @@ In this assignment, we will learn to simultaneously compute the extrinsic parame
 
 -   Get more familiarization with camera representations
 -   Discover new APIs in PyTorch3D to work with rigid transforms
--   Use the power of neural networks and gradient descent to solve a classic optimization problem in *graphics and vision*.
-
+-   Use the power of neural networks and gradient descent to solve a classic optimiation
 
 ## Instructions:
 If you’re using Google Colab, you just need to have a google account and an associated Google Drive. Make a copy of the notebook located below and modify it as requested.
 
 In case you’re choosing to work locally in your machine you must set Anaconda or a `venv` virtual environment, and install the necessary libraries. Create a folder in your Google Drive or in your machine’s workspace. Copy to your drive folder or download the following notebook:
 
-[Assignment 6 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment6.ipynb)
-<a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment6.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[Assignment  Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment.ipynb)
+<a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. Follow the instructions in the notebook for completing the assignment.
 2. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
@@ -25,7 +24,7 @@ The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
-The submission email should be sent with the subject “Assignment 6 - [first-name] - [last-name]”. The assignment can be structured and sent in two ways:
+The submission email should be sent with the subject “Assignment  - [first-name] - [last-name]”. The assignment can be structured and sent in two ways:
 
 1. If your whole solution is implemented in the same notebook as the one provided for the assignment, then you can send just the .ipynb file as the solution. 
 2. If parts of your implementation were done in auxiliary .py scripts, then you must send both the final notebook and the scripts inside a .zip file.
@@ -38,7 +37,7 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI5MzIwMzUsMzcwNDkzNzAxLDQ0Nj
-A3NDU5OSwzMzk2NjM3MjcsOTk0NTI2MDY0LC0xMTAxNDM4ODM5
-XX0=
+eyJoaXN0b3J5IjpbOTEwMTUwMzA5LC0xMDgyOTMyMDM1LDM3MD
+Q5MzcwMSw0NDYwNzQ1OTksMzM5NjYzNzI3LDk5NDUyNjA2NCwt
+MTEwMTQzODgzOV19
 -->
