@@ -1,4 +1,4 @@
-**ASSIGNMENT 4**
+**ASSIGNMENT 7**
 
 In this assignment, we will practice some operations with 3D meshes and point clouds using PyTorch3D. We are going to load individual data files from the disk to build the appropriate data structure and visualize it using both a differentiable renderer and the Plotly viewer. It's also an opportunity for us to explore 
 
@@ -16,8 +16,8 @@ If you’re using Google Colab, you just need to have a google account and an as
 
 In case you’re choosing to work locally in your machine you must set Anaconda or a `venv` virtual environment, and install the necessary libraries. Create a folder in your Google Drive or in your machine’s workspace. Copy to your drive folder or download the following notebook:
 
-[Assignment 4 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment4.ipynb)
-<a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment4.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[Assignment 7 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment7.ipynb)
+<a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment7.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. Follow the instructions in the notebook for completing the assignment.
 2. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
@@ -27,7 +27,7 @@ The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
-The submission email should be sent with the subject “Assignment 4 - [first-name] - [last-name]”. The assignment can be structured and sent in two ways:
+The submission email should be sent with the subject “Assignment 7 - [first-name] - [last-name]”. The assignment can be structured and sent in two ways:
 
 1. If your whole solution is implemented in the same notebook as the one provided for the assignment, then you can send just the .ipynb file as the solution. 
 2. If parts of your implementation were done in auxiliary .py scripts, then you must send both the final notebook and the scripts inside a .zip file.
@@ -40,5 +40,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ3Njc4MzRdfQ==
+eyJoaXN0b3J5IjpbMzI5Nzk2Njc1XX0=
 -->
