@@ -44,8 +44,9 @@ For students following the course on this modality, we recall that all assignmen
 
 1. Daniel Yukimura. [An Introduction to PyTorch (Slides)](https://slides.com/danielyukimura/deck-493038).
 2. Programação Dinâmica. [Como usar o Google Colab para Analisar Dados? (Vídeo)](https://youtu.be/_mIwsA2ddSc)
-3. 
+3. PyTorch Tutorial: [Training a Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjYwODYzLC0xMTQzMjk0ODk0LDE0NT
-k3Njc0MTRdfQ==
+eyJoaXN0b3J5IjpbLTk4NTc2NTc1OSwtMTE0MzI5NDg5NCwxND
+U5NzY3NDE0XX0=
 -->
