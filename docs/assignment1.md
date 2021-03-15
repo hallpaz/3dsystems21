@@ -42,11 +42,11 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 
-1. Luiz Velho. Processamento de Imagens: Deep Video
+1. Luiz Velho. [Processamento de Imagens: Deep Video](https://www.youtube.com/watch?v=QEH10puhBXY&list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj&index=2) (aulas 2 e 3)
 2. Daniel Yukimura. [An Introduction to PyTorch (Slides)](https://slides.com/danielyukimura/deck-493038).
 3. Programação Dinâmica. [Como usar o Google Colab para Analisar Dados? (Vídeo)](https://youtu.be/_mIwsA2ddSc)
 4. PyTorch Tutorial: [Training a Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjA5ODczNiwtMTE0MzI5NDg5NCwxND
+eyJoaXN0b3J5IjpbMTE5MjM2MjIwNywtMTE0MzI5NDg5NCwxND
 U5NzY3NDE0XX0=
 -->
