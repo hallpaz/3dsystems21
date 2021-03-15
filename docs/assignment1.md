@@ -46,7 +46,8 @@ For students following the course on this modality, we recall that all assignmen
 2. Daniel Yukimura. [An Introduction to PyTorch (Slides)](https://slides.com/danielyukimura/deck-493038).
 3. Programação Dinâmica. [Como usar o Google Colab para Analisar Dados? (Vídeo)](https://youtu.be/_mIwsA2ddSc)
 4. PyTorch Tutorial: [Training a Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
+5. [Plane vs Bird classifier](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/examples/NNClassification.ipynb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjM2MjIwNywtMTE0MzI5NDg5NCwxND
-U5NzY3NDE0XX0=
+eyJoaXN0b3J5IjpbLTExMDA5MDM3OTgsMTE5MjM2MjIwNywtMT
+E0MzI5NDg5NCwxNDU5NzY3NDE0XX0=
 -->
