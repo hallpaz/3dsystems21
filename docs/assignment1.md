@@ -41,7 +41,9 @@ For students that are enrolled as “Aluno de Curso Livre” you must not send y
 For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
 ### References:
+
+1. Daniel Yukimura. An Introduction to PyTorch (Slides).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDk2ODY4MywtMTE0MzI5NDg5NCwxND
+eyJoaXN0b3J5IjpbLTU4MTU3MDM0NiwtMTE0MzI5NDg5NCwxND
 U5NzY3NDE0XX0=
 -->
