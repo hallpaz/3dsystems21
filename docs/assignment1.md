@@ -25,7 +25,7 @@ Follow the instructions in the notebook for completing the assignment.
 You can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
 
 ### Submission for IMPA students
-The assignment is due on ~~TBA~~  2021 at 11:59pm (GMT-3).
+The assignment is due on March 21  2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
@@ -42,5 +42,6 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMyOTQ4OTQsMTQ1OTc2NzQxNF19
+eyJoaXN0b3J5IjpbMTA0NDk2ODY4MywtMTE0MzI5NDg5NCwxND
+U5NzY3NDE0XX0=
 -->
