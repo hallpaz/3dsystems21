@@ -20,7 +20,7 @@ In case you’re choosing to work locally in your machine you must set Anaconda 
 2. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
 
 ### Submission for IMPA students
-The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
+The assignment is due on Sunday, April 18 2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
@@ -36,6 +36,6 @@ For students that are enrolled as “Aluno de Curso Livre” you must not send y
 For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
 ### References:
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NjI2NjM2XX0=
--->
+
+1. Jonas Gomes, Luiz Velho and Mario Costa Sousa. Computer Graphics: Theory and Practice, chapters 2, 3 and 4.
+2. Richard Hartley and Andrew Zisserman. Multiple View Geometry in Computer Vision, chapter 18.
