@@ -18,12 +18,12 @@ In case you’re choosing to work locally in your machine you must set Anaconda 
 [Assignment 5 Notebook](https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment5.ipynb)
 <a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/Assignment5.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-1. You'll need to download a small subset of the ShapeNet dataset to complete this task. [Download it here]([https://lvelho.impa.br/i3d21/data/SNCore.v2.tgz](https://lvelho.impa.br/i3d21/data/SNCore.v2.tgz))
+1. You'll need to download a small subset of the ShapeNet dataset to complete this task. [Download it here](https://lvelho.impa.br/i3d21/data/SNCore.v2.tgz)
 2. Follow the instructions in the notebook for completing the assignment.
 3. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
 
 ### Submission for IMPA students
-The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
+The assignment is due on May 09 2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
@@ -39,4 +39,6 @@ For students that are enrolled as “Aluno de Curso Livre” you must not send y
 For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
 ### References:
-[1] [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
+1. [https://shapenet.org](https://shapenet.org)
+2. [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
+3. PyTorch3D [source code for Meshes](https://github.com/facebookresearch/pytorch3d/blob/master/pytorch3d/structures/meshes.py) data structure.
