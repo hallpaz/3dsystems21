@@ -44,5 +44,6 @@ For students following the course on this modality, we recall that all assignmen
 3. PyTorch3D [source code for Meshes](https://github.com/facebookresearch/pytorch3d/blob/master/pytorch3d/structures/meshes.py) data structure.
 4. [ImageNet](http://www.image-net.org/about)
 5. [WordNet](https://wordnet.princeton.edu)
+6. Paul Bourke [sobre arquivos .obj](http://paulbourke.net/dataformats/obj/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WV0kgZz2Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
