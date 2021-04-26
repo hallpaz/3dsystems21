@@ -38,7 +38,11 @@ For students that are enrolled as “Aluno de Curso Livre” you must not send y
 
 For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
-### References:
+### References and other useful contents:
 1. [https://shapenet.org](https://shapenet.org)
 2. [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/pdf/1512.03012.pdf)
 3. PyTorch3D [source code for Meshes](https://github.com/facebookresearch/pytorch3d/blob/master/pytorch3d/structures/meshes.py) data structure.
+4. [ImageNet](http://www.image-net.org/about)
+5. [WordNet](https://wordnet.princeton.edu)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9WV0kgZz2Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
