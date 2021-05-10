@@ -46,6 +46,7 @@ For students following the course on this modality, we recall that all assignmen
 5. [WordNet](https://wordnet.princeton.edu)
 6. Paul Bourke [sobre arquivos .obj](http://paulbourke.net/dataformats/obj/)
 7. [Synthetic Data Generation for Machine Learning](https://visgraf.github.io/syntheticlearning/)
+8. Some parametrics surfaces for PyTorch3D ([Github code](https://github.com/hallpaz/3dsystems20/tree/master/extensions_utils))
 
 
 
