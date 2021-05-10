@@ -47,6 +47,6 @@ For students following the course on this modality, we recall that all assignmen
 6. Paul Bourke [sobre arquivos .obj](http://paulbourke.net/dataformats/obj/)
 7. [Synthetic Data Generation for Machine Learning](https://visgraf.github.io/syntheticlearning/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJkyhV_Mfcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WV0kgZz2Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
