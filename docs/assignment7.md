@@ -23,7 +23,7 @@ In case you’re choosing to work locally in your machine you must set Anaconda 
 2. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
 
 ### Submission for IMPA students
-The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
+The assignment is due on May 23 2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
@@ -39,6 +39,7 @@ For students that are enrolled as “Aluno de Curso Livre” you must not send y
 For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
 ### References:
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5Nzk2Njc1XX0=
--->
+
+1. PyTorch3D: [Getting Started with Renderer](https://pytorch3d.org/docs/renderer_getting_started)
+2. Luiz Velho, Jonas Gomes. [Fundamentos de Computação Gráfica](https://impa.br/page-livros/fundamentos-da-computacao-grafica/). Capítulo 11 "Câmera Virtual".
+3. [Pulsar: Efficient Sphere-based Neural Rendering](https://arxiv.org/abs/2004.07484)
