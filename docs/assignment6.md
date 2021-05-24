@@ -42,3 +42,4 @@ For students following the course on this modality, we recall that all assignmen
 2. PyTorch3D [source code for Meshes](https://github.com/facebookresearch/pytorch3d/blob/master/pytorch3d/structures/meshes.py) data structure.
 3. [Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images](https://arxiv.org/abs/1804.01654)
 4. [Mesh R-CNN](https://arxiv.org/abs/1906.02739)
+5. [Exploring the PyTorch3D Library](https://hallpaz.github.io/3dsystems20/assignment1.html)

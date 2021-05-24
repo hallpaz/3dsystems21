@@ -1,7 +1,7 @@
 
 ** LABORATORY CLASS 2: INTRODUCTION TO PYTORCH3D **
 
-In this class, we will learn about PyTorch3D, our chosen platform to conduct experiments and research on AI Graphcis during this course, including the assignments we will work on the next weeks.
+In this class, we will learn about PyTorch3D, our chosen platform to conduct experiments and research on AI Graphics during this course, including the assignments we will work on the next weeks.
 
 **The goals of this practice are the following:**
 
