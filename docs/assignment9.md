@@ -23,7 +23,7 @@ In case you’re choosing to work locally in your machine you must set Anaconda 
 2. If you want, you can build auxiliary .py scripts and call them from your notebook, for organizational purposes.
 
 ### Submission for IMPA students
-The assignment is due on ~~TBA~~ 2021 at 11:59pm (GMT-3).
+The assignment is due on June 20 2021 at 11:59pm (GMT-3).
 
 IMPA students that are regularly enrolled in the program should send their assignments before the due date to [hallpaz@impa.br](mailto:hallpaz@impa.br) with a copy to [lvelho@impa.br](mailto:lvelho@impa.br). Late delivers will be consider subject to a lower score.
 
@@ -40,6 +40,5 @@ For students following the course on this modality, we recall that all assignmen
 
 ### References:
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQxNDU1NDBdfQ==
--->
+1. PyTorch3D: [Getting Started with Renderer](https://pytorch3d.org/docs/renderer_getting_started)
+2. Lab class on [Differentiable Rendering](assignment8.md)

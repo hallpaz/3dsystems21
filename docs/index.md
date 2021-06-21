@@ -19,5 +19,3 @@ Here you'll find the instructions to each assignment of the course 3D Graphics S
 ### Assignment 9 - [Estimating Geometry, Texture and Camera using differentiable rendering](assignment9.md)
 
 ### Assignment 10 - [Neural Radiance Fields (NeRF) - Lab class only](assignment10.md)
-
-### Assignment 11 - [Rendering Denspose data - Lab class only](assignment11.md)
