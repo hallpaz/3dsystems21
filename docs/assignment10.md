@@ -17,6 +17,8 @@ You are not required to deliver anything as assignment this time. We recommend y
 
 <a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/LabClass10.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+![](nerf/img/nerf-cow.gif)
+
 
 ## References
 
