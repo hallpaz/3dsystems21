@@ -13,6 +13,8 @@ In this class, we will learn about *Neural Radiance Fields* a technique that all
 
 You are not required to deliver anything as assignment this time. We recommend you study the references below and ask us any questions if you have doubts. 
 
+### [Class Slides](nerf/nerflab.html)
+
 <a href="https://colab.research.google.com/github/hallpaz/3dsystems21/blob/main/assignments/LabClass10.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
