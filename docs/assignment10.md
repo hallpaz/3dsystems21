@@ -26,5 +26,6 @@ You are not required to deliver anything as assignment this time. We recommend y
 2. Frank Dellaert. NeRF Explosion 2020 ([personal blog post](https://dellaert.github.io/NeRF/))
 3. [Volumetric Reconstruction in Pytorch3D](https://youtu.be/MOBAJb5nJRI). An Introduction to PyTorch3D, SIGGRAPH Asia 2020 course.
 4. Hallison da Paz and Luiz Velho. [Machine Learning for New Media](https://www.visgraf.impa.br/Data/RefBib/PS_PDF/tr-03-2021/tr-03-2021.pdf). Technical Report TR-03-2021, VISGRAF Lab - IMPA, 2021.
-5. Matthew Tancik: Neural Radiance Fields for View Synthesis
+5. Sitzmann V, Martel JN, Bergman AW, Lindell DB, Wetzstein G (2020) [Implicit neural representations with periodic activation functions](https://arxiv.org/abs/2006.09661)
+6. Matthew Tancik: Neural Radiance Fields for View Synthesis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPWLybp4LL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
